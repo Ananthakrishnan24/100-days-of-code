@@ -3,7 +3,7 @@
 ### Day 0: june 27, 2023 
 
 
-**Today's Progress**: installed python, started coursein freecodecamp.org and finshed three topics.
+**Today's Progress**: installed python, started course in freecodecamp.org and finshed three topics.
  
 
 
